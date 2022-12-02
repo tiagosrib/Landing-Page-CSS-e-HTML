@@ -402,4 +402,7 @@ body .full-width {
     color: var(--black-color);
     border: 0.1rem solid var(--black-color);
     }
+    h2 {
+    font-size: 3.5rem;
+    }
 }
